@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>icons/add-document.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/diskette.png</file>
+        <file>icons/folder.png</file>
+        <file>icons/icons8-save-as-48.png</file>
+        <file>icons/icons8-save-as-96.png</file>
+        <file>icons/information.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/redo (1).png</file>
+        <file>icons/redo.png</file>
+        <file>icons/scissors.png</file>
+        <file>icons/undo.png</file>
+        <file>icons/icons8-new-tab-100.png</file>
+    </qresource>
+</RCC>
